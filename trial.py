@@ -19,7 +19,7 @@ and the number of rounds you play is based on your decision each precedent round
 Every year, you will decide how much water to take from the irrigation canal by typing and entering a number.
 
 There are 3 other farmers in this game who will be making the same decision.
-If you made a mistake and would like to restart the scenario, simply type and enter ‘quit’
+If you would like to restart the scenario, type and enter ‘quit’
 
 Note: Each scenario starts off with 400 kiloliters of available water in the canal.
 
